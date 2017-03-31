@@ -1,0 +1,8 @@
+Following are the steps:
+
+•	Reading the data.
+•	Smoothing the curves
+•	Calculating the best model for the curve based on nature of trend 
+•	Finalizing the model and presenting results of ARIMA model
+•	Forecasting the future values using the model.
+•	Saving the results in a file or database.
